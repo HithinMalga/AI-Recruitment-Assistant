@@ -1,8 +1,16 @@
-# AI Recruitment Assistant
+# 🤖 AI Recruitment Assistant
 
-> NLP-powered resume analyzer with job description matching, skill gap analysis, and interview question generation.
+An NLP-powered resume analysis platform that helps recruiters and candidates analyze resumes, match job descriptions, identify skill gaps, and generate AI-based interview questions.
+
+Built as an internship project at **Geethanjali College of Engineering & Technology**.
 
 **Internship Project** | Geethanjali College of Engineering & Technology
+
+---
+
+## 🎯 Project Overview
+
+AI Recruitment Assistant uses Natural Language Processing and Machine Learning techniques to analyze resumes and compare them with job descriptions. It provides compatibility scores, missing skill analysis, and personalized interview questions.
 
 ---
 
@@ -146,3 +154,26 @@ Applies post-processing to fix common ligature issues (ﬁ → fi, etc.) and nor
 - **PDF Parsing**: Multi-page text extraction and artifact cleanup
 - **Similarity Matching**: Sentence embedding with cosine distance
 - **Streamlit UI**: Interactive file upload, tabbed results, download buttons
+
+---
+
+## 📸 Screenshots
+
+Screenshots will be added soon.
+
+## 🚀 Future Improvements
+
+- ATS resume scoring
+- Multiple resume comparison
+- Recruiter dashboard
+- Database integration
+- Advanced AI interview evaluation
+
+## 📄 License
+
+MIT License
+
+## 👨‍💻 Author
+
+**M Hithin**  
+Geethanjali College of Engineering and Technology
